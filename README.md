@@ -1,5 +1,7 @@
 # Virtual DataFrame
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/pprados/virtual_dataframe)
+
 [Full documentation](https://pprados.github.io/virtual_dataframe/)
 
 ## Motivation
